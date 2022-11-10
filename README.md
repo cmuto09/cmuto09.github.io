@@ -1,0 +1,1 @@
+# codespaces-static-demo
